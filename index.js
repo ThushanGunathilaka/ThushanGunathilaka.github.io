@@ -1,5 +1,5 @@
 var
-  ASSETS_PATH = 'https://localhost:8080/images/',
+  ASSETS_PATH = 'https://thushangunathilaka.github.io/images/',
   DEFAULT = 'default',
   IMAGE_SD = 'sd',
   IMAGE_HD = 'hd',
